@@ -1,0 +1,36 @@
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.exe
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.deps.json
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.runtimeconfig.json
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.runtimeconfig.dev.json
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.dll
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ref\ParseXmlDemo.dll
+D:\Lokesh\Official\Projects\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.pdb
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.vbproj.AssemblyReference.cache
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.Form1.resources
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.vbproj.GenerateResource.cache
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.AssemblyInfoInputs.cache
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.AssemblyInfo.vb
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.vbproj.CoreCompileInputs.cache
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.dll
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ref\ParseXmlDemo.dll
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.pdb
+D:\Lokesh\Official\Projects\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.genruntimeconfig.cache
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.exe
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.deps.json
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.runtimeconfig.json
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.runtimeconfig.dev.json
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.dll
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ref\ParseXmlDemo.dll
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\bin\Debug\net5.0-windows\ParseXmlDemo.pdb
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.vbproj.AssemblyReference.cache
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.Form1.resources
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.vbproj.GenerateResource.cache
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.AssemblyInfoInputs.cache
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.AssemblyInfo.vb
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.vbproj.CoreCompileInputs.cache
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.dll
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ref\ParseXmlDemo.dll
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.pdb
+C:\Users\Shreyash Banawala\source\repos\ParseXmlDemo\obj\Debug\net5.0-windows\ParseXmlDemo.genruntimeconfig.cache

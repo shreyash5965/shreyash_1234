@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentCollection>
+    <Students>
+        <Student>
+            <Id>1</Id>
+            <Name>John Kinn</Name>
+            <Percentage>70%</Percentage>
+        </Student>
+        <Student>
+            <Id>2</Id>
+            <Name>Miller Smith</Name>
+            <Percentage>80%</Percentage>
+        </Student>
+        <Student>
+            <Id>3</Id>
+            <Name>Marshel Woods</Name>
+            <Percentage>89%</Percentage>
+        </Student>
+    </Students>
+</StudentCollection>
